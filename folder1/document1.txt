@@ -1,3 +1,4 @@
-here is a text document, created on my laptop.
+here is a text document, created on someone else's laptop.
 Here is an edit.
+Here is another edit, made on the server.
 
